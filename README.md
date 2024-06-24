@@ -10,7 +10,7 @@
 3. [Патчер-Агент проекта Loliland](https://github.com/HZERR/LoliHook)
 
 ### Связь со мной по любым вопросам и предложениям
-💬 Telegram: https://t.me/bcd6f277_f07a_465a_8c26_6a6a2148
+💬 Telegram: https://t.me/devarov
 <!--
 **HZERR/HZERR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
