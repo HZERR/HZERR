@@ -22,7 +22,7 @@
 |------------|-----------|------------------------|
 | [FXEngine](https://github.com/HZERR/FXEngine) | - | Требует правок. Разработка скорее всего будет возобновлена, но под новую версию Java с изменением кодовой базы |
 | [Библиотека CommonInstruments-JDK17](https://github.com/HZERR/CommonInstruments-JDK17) | - | Много лишнего не нужного кода |
-| [YandexFeedbackBusinessService](https://github.com/HZERR/YandexFeedbackBusinessService) | - | Просто пример работы библиотек FXEngine и CommonInstruments-JDK17 |
+| [YandexFeedbackBusinessService](https://github.com/HZERR/YandexFeedbackBusinessService) | - | Просто пример работы библиотек FXEngine и CommonInstruments |
 | [Патчер Loliland](https://github.com/HZERR/LoliHook) | - | Старый проект |
 | [Консольный патчер лаунчеров sashok274](https://github.com/HZERR/SashokLauncherPatcherConsole) | - | Старый проект |
 | [Патчер лаунчеров sashok274](https://github.com/HZERR/HElias) | - | Старый проект |
@@ -35,6 +35,5 @@
 
 - Email: [vadimvyazloy@yandex.ru](mailto:vadimvyazloy@yandex.ru)
 - Telegram: [@devarov](https://t.me/devarov)
-- GitHub: [@HZERR](https://github.com/HZERR)
 
 ---
