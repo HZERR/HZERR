@@ -11,6 +11,7 @@
 | Репозиторий | Описание | Технологии |
 |------------|-----------|------------|
 | [VoiceAssistant](https://github.com/HZERR/VoiceAssistant) | Голосовой ассистент | Java 25 |
+| [HiddenOfficialChromeAutomation](https://github.com/HZERR/HiddenOfficialChromeAutomation) | Скрытая автоматизация Chrome на Java | Java 21 |
 
 ---
 
