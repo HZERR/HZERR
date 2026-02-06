@@ -10,7 +10,7 @@
 
 | Репозиторий | Описание | Технологии |
 |------------|-----------|------------|
-| [HiddenOfficialChromeAutomation](https://github.com/HZERR/HiddenOfficialChromeAutomation) | Скрытая автоматизация Chrome на Java | Java 21 |
+| [HiddenChromeInstanceFramework](https://github.com/HZERR/HiddenChromeInstanceFramework) | Скрытая автоматизация Chrome на Java | Java 21 |
 | [VoiceAssistant](https://github.com/HZERR/VoiceAssistant) | Голосовой ассистент | Java 25 |
 
 ---
